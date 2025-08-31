@@ -1,16 +1,43 @@
-# calculator
+# 📱 Flutter Calculator App
 
-A new Flutter project.
+A simple and beautiful *Calculator App* built using *Flutter*.  
+This project demonstrates basic arithmetic operations with a clean and modern UI.  
+It’s lightweight, fast, and designed with a gradient-based modern interface.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division  
+- 🟰 Percentage and Decimal support  
+- 🔄 Clear (C) and Delete (DEL) functions  
+- 🔢 Positive/Negative toggle (±)  
+- 🎨 Sleek and responsive gradient UI design  
+- ⚡ Fast performance and minimal code  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- [Flutter](https://flutter.dev/) - Cross-platform framework  
+- [Dart](https://dart.dev/) - Programming language  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+
+
+## ▶ Getting Started
+
+### ⿡ Prerequisites
+Make sure you have the following installed:  
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- [Dart SDK](https://dart.dev/get-dart) (comes with Flutter)  
+- [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/) with Flutter extension  
+
+### ⿢ Clone the Repository
+```bash
+git clone https://github.com/divyalakhtariya/Calculator-App.git
+cd Calculator-App
+Divya Lakhtariya
+💼 Flutter Developer & Mobile App Enthusiast
+📧 Email: divyalakhtariya@gmail.com
+
+🔗 GitHub: @divyalakhtariya
