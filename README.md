@@ -24,8 +24,11 @@ It’s lightweight, fast, and designed with a gradient-based modern interface.
 ## 📂 Project Structur
 
 ├── .flutter-plugins-dependencies
+
 ├── .gitignore
+
 ├── .metadata
+
 ├── LICENSE
 ├── README.md
 ├── analysis_options.yaml
@@ -53,4 +56,5 @@ Divya Lakhtariya
 📧 Email: divyalakhtariya@gmail.com
 
 🔗 GitHub: @divyalakhtariya
+
 
