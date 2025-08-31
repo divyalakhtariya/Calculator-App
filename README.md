@@ -30,12 +30,19 @@ It’s lightweight, fast, and designed with a gradient-based modern interface.
 ├── .metadata
 
 ├── LICENSE
+
 ├── README.md
+
 ├── analysis_options.yaml
+
 ├── calculator.iml
+
 ├── main.dart
+
 ├── pubspec.lock
+
 ├── pubspec.yaml
+
 └── widget_test.dart
 
 
@@ -56,5 +63,6 @@ Divya Lakhtariya
 📧 Email: divyalakhtariya@gmail.com
 
 🔗 GitHub: @divyalakhtariya
+
 
 
