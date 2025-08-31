@@ -21,7 +21,19 @@ It’s lightweight, fast, and designed with a gradient-based modern interface.
 - [Dart](https://dart.dev/) - Programming language  
 
 ---
+## 📂 Project Structur
 
+├── .flutter-plugins-dependencies
+├── .gitignore
+├── .metadata
+├── LICENSE
+├── README.md
+├── analysis_options.yaml
+├── calculator.iml
+├── main.dart
+├── pubspec.lock
+├── pubspec.yaml
+└── widget_test.dart
 
 
 ## ▶ Getting Started
@@ -41,3 +53,4 @@ Divya Lakhtariya
 📧 Email: divyalakhtariya@gmail.com
 
 🔗 GitHub: @divyalakhtariya
+
